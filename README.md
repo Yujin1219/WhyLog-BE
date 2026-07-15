@@ -6,7 +6,7 @@
 
 <div align="center">
 <!-- 대표 이미지(서비스 소개 배너)로 교체 -->
-<img width="4500" height="3000" alt="WhyLog" src="https://github.com/user-attachments/assets/5dec6685-8d5b-439d-be3e-d7974928a228" />
+<img width="4500" height="2800" alt="WhyLog" src="https://github.com/user-attachments/assets/5dec6685-8d5b-439d-be3e-d7974928a228" />
 </div>
 
 #### 주요 기능
